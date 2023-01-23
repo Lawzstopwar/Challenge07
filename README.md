@@ -1,2 +1,2 @@
 # Challenge07
-JQuery
+Third-Party APIs: Work Day Scheduler
