@@ -1,2 +1,1 @@
 # Challenge07
-JQuery
