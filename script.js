@@ -64,11 +64,11 @@ function createTimeBlock(timeText, timeNum) {
 }
 
 var timesText = [
-    "9AM", "10AM", "11AM", "12PM", "1PM", "2PM"
+    "9AM", "10AM", "11AM", "12PM", "1PM", "2PM", "3PM", "4PM", "5PM"
 ]
 
 var timesNum = [
-    9, 10, 11, 12, 13, 14
+    9, 10, 11, 12, 13, 14, 15, 16, 17
 ]
 
 for(i = 0; i < timesText.length; i++) {
