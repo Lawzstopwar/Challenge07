@@ -1,3 +1,16 @@
+setInterval(
+    function(){
+        $("#currentDay").text(moment().format("DDD MMM, YYYY hh:mm:ss"))
+    
+    },1000)
+
+    setInterval(
+        function () {
+            $("#currentDay").text(moment().format("DDD MMM, YYYY hh:mm:ss"))
+    
+        }, 1000)
+
+
 {/* 
 <div class="time-block row">
     <h2 class="hour">9AM</h2>
@@ -51,11 +64,11 @@ function createTimeBlock(timeText, timeNum) {
 }
 
 var timesText = [
-    "9AM", "10AM", "11AM", "12PM"
+    "9AM", "10AM", "11AM", "12PM", "1PM", "2PM"
 ]
 
 var timesNum = [
-    9, 10, 11, 12
+    9, 10, 11, 12, 13, 14
 ]
 
 for(i = 0; i < timesText.length; i++) {
