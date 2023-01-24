@@ -36,4 +36,5 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/Animated-Work-Scheduler.gif)
 
-![image of the functionality](./images/Screenshot-Work-Day-Scheduler.png)
+[Deployed Link]( https://lawzstopwar.github.io/Work-Day-Scheduler/)
+
